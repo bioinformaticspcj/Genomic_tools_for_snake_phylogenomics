@@ -1,1 +1,1 @@
-# Genome_tools_for_snake_phylogenomics
+# Genomic_tools_for_snake_phylogenomics
